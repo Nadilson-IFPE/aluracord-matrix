@@ -56,6 +56,7 @@ export default function PaginaInicial() {
         styleSheet={{
           display: 'flex', alignItems: 'center', justifyContent: 'center',
           backgroundColor: appConfig.theme.colors.primary[500],
+          // backgroundImage: 'url(https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif)',
           backgroundImage: 'url(https://miro.medium.com/max/1400/1*eBZfXMuE72uCDtjUZEzZHQ.gif)',
           backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundBlendMode: 'multiply',
         }}
@@ -90,6 +91,7 @@ export default function PaginaInicial() {
 
             <TextField
               fullWidth
+              placeholder='Informe seu Github...' 
               textFieldColors={{
                 neutral: {
                   textColor: appConfig.theme.colors.neutrals[200],
