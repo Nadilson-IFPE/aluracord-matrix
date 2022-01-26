@@ -1,6 +1,6 @@
 ## Aluracord-Matrix (NEXTJS)
 
-Projeto criado durante o envento Imersão React, promovido pela Alura.
+Projeto criado durante o evento Imersão React, promovido pela Alura.
 
 A primeira etapa já está publicada no site da Vercel e pode ser acessada através deste endereço:
 
